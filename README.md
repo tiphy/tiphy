@@ -6,7 +6,7 @@ Bem-vindos ao meu perfil do Github! ✨
 - Tenho 18 anos
 - Moro em São Paulo, SP
 - Sou apaixonada pela area de tecnologia
-- Sempre buscanco aprender mais
+- Sempre buscando aprender mais
 - Estou graduando em Análise e Desenvolvimento de Sistemas
 
 
