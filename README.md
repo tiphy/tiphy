@@ -7,7 +7,7 @@ Bem-vindos ao meu perfil do Github! ✨
 - Moro em São Paulo, SP
 - Sou apaixonada pela area de tecnologia
 - Sempre buscanco aprender mais
-- Estou graduando e Análise e Desenvolvimento de Sistemas
+- Estou graduando em Análise e Desenvolvimento de Sistemas
 
 
 
