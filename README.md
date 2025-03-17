@@ -29,9 +29,9 @@ Tiphany Souza, estudante de Análise e Desenvolvimento de Sistemas no Centro Uni
 
 - Trajetória acadêmica e habilidades:
   
-Em 2021, iniciei meu curso de inglês na Wizard by Pearson, onde pude aprimorar minhas habilidades sociais, organização e flexibilidade. No ano seguinte, atuei como voluntária na Igreja Batista do Povo, como operadora de transmissão, sendo responsável por garantir a qualidade do sinal e coordenar a transmissão de eventos ao vivo para o público online, pude desenvolver habilidades como, resolução de problemas e adaptação a mudanças repentinas. Em 2023, migrei para o Instituto Nossa Senhora de Fátima, onde participei de um curso intensivo de inglês, o que me permitiu melhorar ainda mais minhas habilidades de comunicação e interação social.
+Em 2021, iniciei o curso de inglês na Wizard by Pearson, aprimorando habilidades sociais, organização e flexibilidade. No ano seguinte, fui voluntária na Igreja Batista do Povo como operadora de transmissão, onde desenvolvi competências como resolução de problemas e adaptação a mudanças. Em 2023, migrei para o Instituto Nossa Senhora de Fátima, participando de um curso intensivo de inglês, o que fortaleceu ainda mais minhas habilidades de comunicação e interação social.
 
 - Habilidades técnicas:
   
-Em Front-End, possuo experiência com HTML, CSS e JavaScript. No Back-End, Java e Python são as minhas principais linguagens de programação, onde estou sempre buscando aprimorar a cada dia. Atualmente, participo de oficinas e palestras focadas em computação quântica, além de me aprofundar em Bancos de Dados MySQL, Data Science e Machine Learning. Também estou envolvida no Microsoft Certification Challenge #3 DP-100, como preparação para conquistar a certificação Microsoft DP-100.
+Tenho experiência em Front-End com HTML, CSS e JavaScript, e em Back-End com Java e Python, sempre buscando aprimorar minhas habilidades. Atualmente, participo de workshops e palestras sobre computação quântica e me aprofundo em MySQL, Data Science e Machine Learning. Estou também me preparando para a certificação Microsoft DP-100 através do Microsoft Certification Challenge #3.
 
