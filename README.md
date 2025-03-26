@@ -33,5 +33,5 @@ Em 2021, iniciei o curso de inglês na Wizard by Pearson, aprimorando habilidade
 
 - Habilidades técnicas:
   
-Tenho experiência em Front-End com HTML, CSS e JavaScript, e em Back-End com Java e Python, sempre buscando aprimorar minhas habilidades. Atualmente, participo de workshops e palestras sobre computação quântica e me aprofundo em MySQL, Data Science e Machine Learning. Estou também me preparando para a certificação Microsoft DP-100 através do Microsoft Certification Challenge #3.
+Tenho experiência em Front-End com HTML, CSS e JavaScript, e em Back-End com Java e Python, sempre buscando aprimorar minhas habilidades. Atualmente, participo de workshops e palestras sobre computação quântica e me aprofundo em MySQL, Data Science e Machine Learning.
 
