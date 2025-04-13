@@ -31,7 +31,7 @@ Bem-vindos ao meu perfil do Github! ✨
 </p>
 
 
-## Sobre 🌱
+## About 🌱
 Tiphany Souza, estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, campus Santo Amaro. Apaixonada por tecnologia, sempre em busca de novos aprendizados e desafios. 
 
 - Trajetória acadêmica e habilidades:
