@@ -7,15 +7,22 @@ Bem-vindos ao meu perfil do Github! ✨
 - Moro em São Paulo, SP
 - Sou apaixonada pela área de tecnologia
 - Sempre buscando aprender mais
-- Estou graduando em Análise e Desenvolvimento de Sistemas 
+- Estou graduando em Análise e Desenvolvimento de Sistemas
 
 
+## Socials 💻
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__158575/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TiphanySouzaVieira) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@__jsnx) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tiphy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tiphy) 
 
+
+## GitHub Stats 📊
  <div aling="center">
 <a href="https://github.com/tiphy">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiphy&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=pt-br"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tiphy&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://nirzak-streak-stats.vercel.app/?user=tiphy&theme=tokyonight&hide_border=true"/>
 </div>
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,4 +41,14 @@ Em 2021, iniciei o curso de inglês na Wizard by Pearson, aprimorando habilidade
 - Habilidades técnicas:
   
 Tenho experiência em Front-End com HTML, CSS e JavaScript, e em Back-End com Java e Python, sempre buscando aprimorar minhas habilidades. Atualmente, participo de workshops e palestras sobre computação quântica e me aprofundo em MySQL, Data Science e Machine Learning.
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tiphy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=tiphy&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
