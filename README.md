@@ -44,11 +44,3 @@ Tenho experiência em Front-End com HTML, CSS e JavaScript, e em Back-End com Ja
 
 
 
-## GitHub Trophies 🌼
-![](https://github-profile-trophy.vercel.app/?username=tiphy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=tiphy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
