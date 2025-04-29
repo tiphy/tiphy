@@ -19,7 +19,6 @@ Bem-vindos ao meu perfil do Github! ✨
 <a href="https://github.com/tiphy">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiphy&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=pt-br"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tiphy&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://nirzak-streak-stats.vercel.app/?user=tiphy&theme=tokyonight&hide_border=true"/>
 </div>
 
 
