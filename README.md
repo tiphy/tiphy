@@ -11,10 +11,11 @@ Bem-vindos ao meu perfil do Github! ✨
 
 
 ## Socials 💻
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__158575/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiphany-souza-vieira-4b94841b6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@__jsnx) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tiphy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arroz_docer) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__158575/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiphany-souza-vieira-4b94841b6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@__jsnx) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tiphy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arroz_docer)   <a href="https://wakatime.com/@02e306be-3e46-405e-a96d-0a337404ccd3"><img src="https://wakatime.com/badge/user/02e306be-3e46-405e-a96d-0a337404ccd3.svg" alt="Total time coded since May 6 2025" /> </a>
 
 
-## GitHub Stats 📊
+## GitHub Stats 📊 
+
  <div aling="center">
 <a href="https://github.com/tiphy">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiphy&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=pt-br"/>
@@ -30,16 +31,7 @@ Bem-vindos ao meu perfil do Github! ✨
 </p>
 
 
-## About 🌱
-Tiphany Souza, estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, campus Santo Amaro. Apaixonada por tecnologia, sempre em busca de novos aprendizados e desafios. 
 
-- Trajetória acadêmica e habilidades:
-  
-Em 2021, iniciei o curso de inglês na Wizard by Pearson, aprimorando habilidades sociais, organização e flexibilidade. No ano seguinte, fui voluntária na Igreja Batista do Povo como operadora de transmissão, onde desenvolvi competências como resolução de problemas e adaptação a mudanças. Em 2023, migrei para o Instituto Nossa Senhora de Fátima, participando de um curso intensivo de inglês, o que fortaleceu ainda mais minhas habilidades de comunicação e interação social.
-
-- Habilidades técnicas:
-  
-Tenho experiência em Front-End com HTML, CSS e JavaScript, e em Back-End com Java e Python, sempre buscando aprimorar minhas habilidades. Atualmente, participo de workshops e palestras sobre computação quântica e me aprofundo em MySQL, Data Science e Machine Learning.
 
 
 
